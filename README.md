@@ -172,49 +172,7 @@ ControlSueldoPersonal/
 
 ---
 
-# 🔧 Instalación y Ejecución
 
-## 1️⃣ Clonar el repositorio
-
-```bash
-git clone LINK_DEL_REPOSITORIO
-```
-
----
-
-## 2️⃣ Abrir en NetBeans
-
-- Abrir NetBeans
-- Seleccionar:
-  - File → Open Project
-- Abrir la carpeta del proyecto
-
----
-
-## 3️⃣ Agregar Librería SQLite JDBC
-
-Descargar:
-
-https://github.com/xerial/sqlite-jdbc/releases
-
-Agregar el archivo `.jar` al proyecto:
-
-- Click derecho proyecto
-- Properties
-- Libraries
-- Add JAR/Folder
-
----
-
-## 4️⃣ Ejecutar el Proyecto
-
-Ejecutar la clase principal:
-
-```java
-Main.java
-```
-
----
 
 # 📌 Características Destacadas
 
