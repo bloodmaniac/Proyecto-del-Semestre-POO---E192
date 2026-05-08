@@ -20,7 +20,7 @@
 
 ![Pantalla Principal](captura_menu.png)
 
-> *(Guardar la imagen enviada con el nombre `captura_menu.png` dentro del proyecto para que se visualice correctamente en GitHub.)*
+
 
 ---
 
