@@ -148,26 +148,7 @@ CREATE TABLE gastos (
 
 # 📊 Diagrama Entidad Relación
 
-```text
-USUARIOS
----------
-id
-nombre
-correo
-
-SALARIO
----------
-id
-salario_mensual
-
-GASTOS
----------
-id
-descripcion
-categoria
-monto
-fecha
-```
+![Pantalla Principal](ER.png)
 
 ---
 
